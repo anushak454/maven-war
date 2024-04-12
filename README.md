@@ -1,0 +1,2 @@
+# maven-war
+maven example
